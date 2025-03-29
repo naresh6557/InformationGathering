@@ -67,7 +67,7 @@ sudo nc example.com 80
 
 ![httprint](https://github.com/user-attachments/assets/7390da39-6351-483a-931c-d7adde56008b)
 
-
+ 
 # Tracing the Location
 ### TCP Traceroute:
 sudo traceroute -T www.vilvah.com
