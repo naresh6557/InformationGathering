@@ -1,3 +1,6 @@
+# Name:Naresh Kumar R
+# Reg no:212224040213
+
 # EX.NO-2-InformationGathering
 Information Gathering Techiques
 
